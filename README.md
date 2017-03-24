@@ -11,6 +11,10 @@ What doesn't work:
 - Hardware issues with the motor: the motor clicks, and the rotor rubs on the PCB
 - Speed control not functional due to inexact velocity calculations however the control system works: refer to line 380
 
+How to use:
+
+- Supports the normal commands detailed in the spec sheet
+
 
 
 
